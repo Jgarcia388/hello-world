@@ -1,3 +1,3 @@
 # hello-world
 First Repository
-This is my forst time using Github
+This is my first time using Github
